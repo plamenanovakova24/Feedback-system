@@ -12,7 +12,6 @@
 #define FEEDBACK_FILE "feedback.txt"
 
 
-
 /*Структура за един въпрос.Съдържа само текст, но позволява лесно разширяване.*/
 typedef struct {
     char text[MAX_TEXT];
